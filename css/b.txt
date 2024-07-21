@@ -1,1 +1,1 @@
-b
+Testando alterações por meio do git clone.
