@@ -1,3 +1,4 @@
 testando repo 1
 Nova funcionalidade sendo desenvolvida no projeto.
 Adicionando novos elementos no projeto.
+Atualizando repositório remoto com as novas branchs com merge na main.
